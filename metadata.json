@@ -1,0 +1,6 @@
+{
+  "name": "Converto",
+  "description": "Convert, compress, and process your images, audio, video, PDFs, and documents instantly and privately in your browser.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
